@@ -1,0 +1,66 @@
+.logo-img {
+  width: 100px;
+}
+
+.header-div {
+  border: 1px solid;
+  border-radius: 6px;
+  justify-content: space-between;
+  margin: 10px;
+  display: flex;
+}
+
+.body-div {
+  flex-wrap: wrap;
+  margin: 10px;
+  display: flex;
+}
+
+.nav-items > ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.nav-items > ul > li {
+  padding: 20px;
+}
+
+.res-logo {
+  width: 95%;
+}
+
+.res-card {
+  cursor: pointer;
+  border: 1px solid;
+  border-radius: 7px;
+  width: 157px;
+  margin: 7px;
+  padding: 5px;
+}
+
+.res-container, .shimmer-container {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.shimmer-card {
+  color: #d3d3d3;
+  width: 200px;
+  height: 300px;
+}
+
+#root {
+  background-image: url("https://www.creativefabrica.com/wp-content/uploads/2022/12/14/Soft-color-mixed-watercolor-background-Graphics-52376704-1.jpg");
+}
+
+.About_img {
+  width: 400px;
+  height: 400px;
+}
+
+.conatct_img {
+  width: 500px;
+  height: 500px;
+}
+
+/*# sourceMappingURL=index.9e4c6fd2.css.map */
