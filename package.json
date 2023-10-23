@@ -1,0 +1,20 @@
+{
+  "name": "create_app",
+  "version": "1.0.0",
+  "description": "first react app",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "first",
+    "react",
+    "demo",
+    "app",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react-router-dom": "^6.17.0"
+  }
+}
